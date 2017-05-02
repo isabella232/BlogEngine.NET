@@ -24,5 +24,3 @@ To deploy the application, simply upload the Archive.zip file provided at the ro
 
 ![dashboard-3](https://cloud.githubusercontent.com/assets/1932785/11760070/0012f9d8-a052-11e5-84a8-e9097cb85f23.png)
 
-## Themes
-We will share everything about themes and how you can create your own theme on [This page](http://francis.bio/BlogEngine/).
